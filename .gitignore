@@ -2,3 +2,7 @@
 8_faces/Checkpoints/*
 8_faces/.ipynb_checkpoints/*
 *.hdf5
+*.jpg
+*.jpeg
+Project_Wohnungsbilder/data/*
+Project_Wohnungsbilder/.ipynb_checkpoints/*
