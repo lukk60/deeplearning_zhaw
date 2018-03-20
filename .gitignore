@@ -1,3 +1,4 @@
-/tensorboard/*
-/Checkpoints/*
+tensorboard/*
+Checkpoints/*
+.ipynb_checkpoints/*
 *.hdf5
