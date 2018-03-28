@@ -6,3 +6,5 @@
 *.jpeg
 Project_Wohnungsbilder/data/*
 Project_Wohnungsbilder/.ipynb_checkpoints/*
+Project_Wohnungsbilder/checkpoints/*
+Project_Wohnungsbilder/tensorboard/*
